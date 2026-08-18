@@ -1,0 +1,15 @@
+{
+  "name": "nomupay-claude-plugins",
+  "owner": {
+    "name": "Nomupay"
+  },
+  "description": "Claude Code marketplace for Nomupay merchant plugins.",
+  "plugins": [
+    {
+      "name": "nomupay-merchant-integration",
+      "description": "Nomupay merchant integration agents and skills.",
+      "version": "0.1.0",
+      "source": "./plugins/nomupay-merchant-integration"
+    }
+  ]
+}

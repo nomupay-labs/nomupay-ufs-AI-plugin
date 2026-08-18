@@ -1,0 +1,16 @@
+{
+  "name": "nomupay-merchant-integration",
+  "description": "Nomupay agents and skills for merchant integration.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Nomupay"
+  },
+  "keywords": [
+    "nomupay",
+    "merchant",
+    "integration"
+  ],
+  "category": "development",
+  "agents": "./agents-claude/",
+  "skills": "./skills/"
+}

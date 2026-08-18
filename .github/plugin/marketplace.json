@@ -1,0 +1,19 @@
+{
+  "name": "nomupay-copilot-plugins",
+  "owner": {
+    "name": "Nomupay"
+  },
+  "metadata": {
+    "description": "GitHub Copilot marketplace for Nomupay merchant plugins.",
+    "version": "0.1.0",
+    "pluginRoot": "plugins"
+  },
+  "plugins": [
+    {
+      "name": "nomupay-merchant-integration",
+      "description": "Nomupay merchant integration agents and skills.",
+      "version": "0.1.0",
+      "source": "nomupay-merchant-integration"
+    }
+  ]
+}
