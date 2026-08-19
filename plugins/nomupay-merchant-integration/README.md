@@ -2,7 +2,7 @@
 
 > **Version:** 0.1.0 · **Author:** Nomupay · **Category:** Development
 >
-> Part of the [`pezaio-testing/merchant-agents`](../../README.md) plugin
+> Part of the [`nomupay-labs/nomupay-ufs-AI-plugin`](../../README.md) plugin
 > repository.
 
 A plugin that bundles language-specific integration agents (C#,
