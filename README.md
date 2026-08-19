@@ -19,12 +19,12 @@ JavaScript/TypeScript, and PHP.
 ## Installation
 
 This plugin is distributed via the
-[`pezaio-testing/merchant-agents`](https://github.com/pezaio-testing/merchant-agents)
+[`nomupay-labs/nomupay-ufs-AI-plugin`](https://github.com/nomupay-labs/nomupay-ufs-AI-plugin)
 GitHub repository and works across VS Code, GitHub Copilot CLI, and Claude Code.
 
 ### VS Code
 
-Add `pezaio-testing/merchant-agents` to the `chat.plugins.marketplaces` setting
+Add `nomupay-labs/nomupay-ufs-AI-plugin` to the `chat.plugins.marketplaces` setting
 in VS Code, then search `@agentPlugins` in the Extensions view and install
 `nomupay-merchant-integration`. See [Agent plugins in VS
 Code](https://code.visualstudio.com/docs/agent-customization/agent-plugins#_configure-plugin-marketplaces)
@@ -33,7 +33,7 @@ for full instructions.
 ### GitHub Copilot CLI
 
 Register the marketplace with `copilot plugin marketplace add
-pezaio-testing/merchant-agents` (marketplace name: `nomupay-copilot-plugins`),
+nomupay-labs/nomupay-ufs-AI-plugin` (marketplace name: `nomupay-copilot-plugins`),
 then install with `copilot plugin install
 nomupay-merchant-integration@nomupay-copilot-plugins`. See [Finding and
 installing
@@ -43,7 +43,7 @@ for full instructions.
 ### Claude Code
 
 Register the marketplace with `/plugin marketplace add
-pezaio-testing/merchant-agents` (marketplace name: `nomupay-claude-plugins`),
+nomupay-labs/nomupay-ufs-AI-plugin` (marketplace name: `nomupay-claude-plugins`),
 then install with `/plugin install
 nomupay-merchant-integration@nomupay-claude-plugins` and run `/reload-plugins`
 to activate. See [Discover and install
